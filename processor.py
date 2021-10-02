@@ -51,6 +51,4 @@ def stringSeparator(user_input):
         else:
             print("Unknown words found: ", unknown_words)
 
-#stringSeparator("against happy effect ending haha")
-
 
